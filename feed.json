@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Diana&#x27;s Website!",
+    "description": "",
+    "home_page_url": "https://dianahlaura18.github.io/mydigitalstorytelling",
+    "feed_url": "https://dianahlaura18.github.io/mydigitalstorytelling/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Diana Hernandez"
+    },
+    "items": [
+    ]
+}
